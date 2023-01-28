@@ -1,22 +1,15 @@
 {
-  "name": "supporters",
+  "name": "fulldiscordbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://github.com/DuckoDas/FullDiscordBot Credit to Lyxcode base cause i was too lazy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LyxcodeTutorials/Supporters.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LyxcodeTutorials/Supporters/issues"
-  },
-  "homepage": "https://github.com/LyxcodeTutorials/Supporters#readme",
+  "homepage": "https://github.com/DuckoDas/FullDiscordBot",
   "dependencies": {
     "ascii-table": "^0.0.9",
     "discord-html-transcripts": "^3.1.3",
