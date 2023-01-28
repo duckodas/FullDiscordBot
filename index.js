@@ -59,3 +59,21 @@ client
     loadButtons(client);
   })
   .catch((err) => console.log(err));
+
+
+process.on("unhandledRejection", (reason, promise) => {
+      console.log(" [Error_Handling] :: Unhandled Rejection/Catch");
+      console.log(reason, "\n", promise);
+    });
+    process.on("uncaughtException", (err, origin) => {
+      console.log(" [Error_Handling] :: Uncaught Exception/Catch");
+      console.log(err, "\n", origin);
+    });
+    process.on("uncaughtExceptionMonitor", (err, origin) => {
+      console.log(" [Error_Handling] :: Uncaught Exception/Catch (MONITOR)");
+      console.log(err, "\n", origin);
+    });
+    process.on("multipleResolves", (type, promise, reason) => {
+      // console.log(" [Error_Handling] :: Multiple Resolves");
+      // console.log(type, promise, reason);
+    });
