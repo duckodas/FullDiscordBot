@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Ducko's DJS Suggestion System V14 (Full Bot)</h1>
-<h3 align="center">System made with 💖 by Ducko#7068</h3>
+<h1 align="center">Welcome to Ducko's V14 (Full Bot)</h1>
+<h3 align="center">Bot made with 💖 by Ducko#7068</h3>
 
 <div align="center">
  
@@ -15,6 +15,8 @@
 
 **Role to accept or decline or restart a suggestion!**
 
+**Full Ticket System Included**
+
 </div>
 <hr>
 
@@ -22,6 +24,8 @@
 - Custom colors for default the embed, accepted suggestions, and declined suggestions (Setup)
 - Accept or decline or just start the suggestion again (Commands)
 - Upvote or downvote a suggestion
+- Add and remove people from tickets
+- Create tickets and close or archive them!
 
 ## **Dependencies:**
 - NodeJS
