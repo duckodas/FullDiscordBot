@@ -44,6 +44,7 @@ const client = new Client({
 });
 
 client.config = require("./config.json");
+client.cooldowns = new Collection();
 client.commands = new Collection();
 client.events = new Collection();
 client.modals = new Collection();
