@@ -1,0 +1,4 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "mongodb": "YOUR_MONGODB_CONNECTION_URL"
+}
