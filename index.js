@@ -50,10 +50,10 @@ client.events = new Collection();
 client.modals = new Collection();
 client.buttons = new Collection();
 
+loadEvents(client);
 client
   .login(client.config.token)
   .then(() => {
-    loadEvents(client);
     loadCommands(client);
     loadModals(client);
     loadButtons(client);
