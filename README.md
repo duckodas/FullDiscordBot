@@ -31,3 +31,9 @@
 - NodeJS
 - [MongoDB Database (FREE)](https://www.mongodb.com/)
 
+# Contributors
+
+[![Contributors][contributors-image]][contributors-link]
+
+[contributors-image]: https://contrib.rocks/image?repo=duckodas/FullDiscordBot
+[contributors-link]: https://github.com/duckodas/FullDiscordBot/graphs/contributors
