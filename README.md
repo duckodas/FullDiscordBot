@@ -33,7 +33,8 @@
 
 # Contributors
 
-[![Contributors][contributors-image]][contributors-link]
+## **Contributors**
 
-[contributors-image]: https://contrib.rocks/image?repo=duckodas/FullDiscordBot
-[contributors-link]: https://github.com/duckodas/FullDiscordBot/graphs/contributors
+<a href="https://github.com/duckodas/fulldiscordbot/graphs/contributors">
+  <img src="https://stg.contrib.rocks/image?repo=duckodas/fulldiscordbot" />
+</a>
