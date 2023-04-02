@@ -141,7 +141,7 @@ module.exports = {
         }
       );
 
-      channel.send({
+      Channel.send({
         embeds: [
           new EmbedBuilder()
             .setColor("Yellow")
